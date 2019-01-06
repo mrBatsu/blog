@@ -11,7 +11,7 @@ share: true
 
 One of the things everyone seems to be doing is posting a screenshot with their specs. Doing the same here.  
 
-![neofetch](https://raw.githubusercontent.com/mrBatsu/blog/gh-pages/images/screenshot-blog.png)
+![neofetch](https://raw.githubusercontent.com/mrBatsu/blog/master/docs/images/screenshot-blog.png)
 
 Using [neofetch](https://github.com/dylanaraps/neofetch) and a wallpaper from the amazing [Waneella](https://www.patreon.com/waneella/posts), which I'm proud to sponsor on Patreon. You can also follow her on Instagram, [@waneella](https://www.instagram.com/waneella/).  
 
