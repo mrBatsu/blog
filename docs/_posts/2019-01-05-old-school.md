@@ -34,4 +34,4 @@ Turns out you can use Twitter in a retro terminal, complete with the clickity cl
 	[https://github.com/Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
 - rainbowstream
-	[https://github.com/orakaro/rainbowstream/](https://github.com/orakaro/rainbowstream/)a
+	[https://github.com/orakaro/rainbowstream/](https://github.com/orakaro/rainbowstream/)
