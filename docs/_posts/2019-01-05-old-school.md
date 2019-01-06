@@ -6,7 +6,7 @@ modified: 2019-01-05 18:01
 category: blog
 tags: [post, linux]
 comments: false
-share: true
+share: false
 ---
 
 One of the nice things about Linux is that I'm finding a ton of new applications.  
