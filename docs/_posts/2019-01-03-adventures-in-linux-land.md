@@ -6,7 +6,7 @@ modified: 2019-01-03 12:01
 category: blog
 tags: [post,linux]
 comments: false
-share: true
+share: false
 ---
 
 After years without thinking about Linux, the thought of installing it again crossed my mind, and I dove in.  
