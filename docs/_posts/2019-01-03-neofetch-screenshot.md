@@ -6,7 +6,7 @@ modified: 2019-01-03 13:01
 category: blog
 tags: [post,linux]
 comments: false
-share: true
+share: false
 ---
 
 One of the things everyone seems to be doing is posting a screenshot with their specs. Doing the same here.  
