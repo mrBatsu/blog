@@ -22,7 +22,7 @@ title: "mrBatsu"
 description: "blabla."
 baseurl: "/blog"
 url: "https://mrBatsu.github.io"
-logo: "/images/so-simple-site-logo.png"
+logo: "/images/mrbatsu-site-logo.jpg"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: # 200
@@ -107,7 +107,7 @@ defaults:
 # Site Author
 author:
   name: mrBatsu
-  picture: /images/michael-rose-photo.jpg
+  picture: /images/mrbatsu-bio-photo.jpg
   email:
   twitter: mrBatsu_
   links:
