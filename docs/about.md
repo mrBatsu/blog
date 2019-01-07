@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /about/
 title: About mrBatsu
 tags: [about]
