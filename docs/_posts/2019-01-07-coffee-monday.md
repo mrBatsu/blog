@@ -4,7 +4,7 @@ title: Coffee vs. Monday
 description: "Fight!"
 modified: 2019-01-07 13:01
 category: blog
-tags: [post, image]
+tags: [post, pixelart]
 comments: false
 share: false
 ---
