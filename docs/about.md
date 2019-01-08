@@ -12,13 +12,12 @@ Here we are, again. While trying to learn some stuff about Linux I decided to ke
 
 Enjoy.  
 
-You can find the real me on [Twitter](https://twitter.com/maique) and [Instagram](https://instagram.com/maique). That's where I spend most of the time when I'm not out and about, shooting something.  
+You can find the real me on [Twitter](https://twitter.com/maique) and [Instagram](https://instagram.com/maique).  
+That's where I spend most of the time when I'm not out and about, shooting something.  
 
 ----
 
 ### Colophon
-
-Lovingly made with help from kind people like:
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).  
 
