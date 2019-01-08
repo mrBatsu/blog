@@ -14,6 +14,6 @@ The new [pricing](https://github.com/pricing) for GitHub was announced on a post
 ![github](https://raw.githubusercontent.com/mrBatsu/blog/master/docs/images/github.png)  
 credit: GitHub
 
-Sadly the free plan still doensn't allow GitHub Pages on private repositories and, as far as I can see, also no free private repositories on organizations.
+Sadly the free plan still doesn't allow GitHub Pages on private repositories and, as far as I can see, also no free private repositories on organizations.
 
 If you don't need those now it's a good time to downgrade your account, or simply open an account if you were thinking about it but needed the free repositories.
