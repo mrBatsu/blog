@@ -4,10 +4,6 @@ permalink: /about/
 title: About mrBatsu
 tags: [about]
 modified: 2019-01-07
-image:
-  feature: header10.jpg
-  credit: Maique Madeira
-  creditlink: http://maiquemadeira.com
 ---
 
 Hey, it's mrBatsu, another [maique](http://twitter.com/maique) alter ego. The geekier one.  
@@ -20,7 +16,7 @@ You can find the real me on [Twitter](https://twitter.com/maique) and [GitHub](h
 
 ----
 
-###Colophon###
+### Colophon
 
 Lovingly made with help from kind people like:
 
