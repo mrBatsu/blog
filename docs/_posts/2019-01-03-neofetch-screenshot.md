@@ -4,7 +4,7 @@ title: Screenshot test with neofetch
 description: "neofetch, it must be done."
 modified: 2019-01-03 13:01
 category: blog
-tags: [post,linux, screenshot]
+tags: [post,linux, screenshot, pixelart]
 comments: false
 share: false
 ---

@@ -4,7 +4,7 @@ title: Waneella Also Here
 description: "22:22."
 modified: 2019-01-12 23:01
 category: blog
-tags: [post, screenshot]
+tags: [post, screenshot, pixelart]
 comments: false
 share: false
 ---
