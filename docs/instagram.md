@@ -6,9 +6,7 @@ tags: [about]
 modified: 2019-01-22
 ---
 
-Let's see if this works out...
-
-Sharing Instagram shots from [maique](https://instagram.com/maique). Hope you like them.
+In real life I'm a photographer, have been for a while. While there's an account for mrBatsu on Instagram, the real one is at [maique](https://instagram.com/maique). Hope you like the photos.
 
 <!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
