@@ -11,7 +11,7 @@ share: false
 
 Oh, no, not again!
 
-![wp-admin](https://raw.githubusercontent.com/mrBatsu/blog/master/docs/images/wp-admin.png)
+![wp-admin](https://raw.githubusercontent.com/mrBatsu/blog/master/docs/images/wp-admin.png){: .align-center}
 
 Here I find myself again, staring at the login dialog for another Wordpress install.
 
