@@ -4,7 +4,7 @@ title: The Can Show Off
 description: "Drink Your Coffee."
 modified: 2019-01-25 00:01
 category: blog
-tags: [post, travel, coffee]
+tags: [post, japan, travel, coffee]
 comments: false
 share: false
 ---
